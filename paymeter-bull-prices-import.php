@@ -89,7 +89,7 @@ function upr_process_uploaded_file()
                         $configuracion = [
                             'config' => [
                                 'enable_config' => true,
-                                'booking_period' => 'per_nights',
+                                'booking_period' => 'per_days',
                                 'allow_checkout_only' => false,
                                 'one_day_bookings' => false,
                                 'weekly_bookings' => false,
